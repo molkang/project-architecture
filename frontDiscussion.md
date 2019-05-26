@@ -16,4 +16,11 @@
 * browserify가 라이벌인듯하나 webpack이 강세
 * create-vue-app? 에서 사용하는 번들러로 사용해야함
 
-## 
+## UI Framework
+* vuetify vs element-ui npm trend 대등
+* element-ui는 default언어가 중국어
+* element-ui가 문서화가 더 잘되어있다고함
+
+
+## vue.js 관련 참고
+* vuejs / awesome-vue
